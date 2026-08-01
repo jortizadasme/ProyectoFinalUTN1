@@ -6,7 +6,6 @@
 ![Eureka](https://img.shields.io/badge/Eureka-Service_Discovery-green)
 ![Config Server](https://img.shields.io/badge/Spring_Cloud-Config_Server-blue)
 ![API Gateway](https://img.shields.io/badge/Spring_Cloud-API_Gateway-0A66C2)
-![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?logo=mysql&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-3.9-C71A36?logo=apachemaven&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-OpenAPI-85EA2D?logo=swagger&logoColor=black)
 ![JSON](https://img.shields.io/badge/Format-JSON-blue)
