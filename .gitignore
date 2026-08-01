@@ -1,33 +1,18 @@
-HELP.md
-target/
-.mvn/wrapper/maven-wrapper.jar
-!**/src/main/**/target/
-!**/src/test/**/target/
+### Repos anidados (cada uno tiene su propio .git y remoto propio) ###
+### No deben trackearse como parte de este repo ###
+/Config_Server-1/
+/Customer_Server-1/
+/eureka-server-1/
 
-### STS ###
-.apt_generated
-.classpath
-.factorypath
-.project
-.settings
-.springBeans
-.sts4-cache
+### Archivos temporales ###
+*.log
+*.tmp
+*.bak
 
-### IntelliJ IDEA ###
+### IDE ###
 .idea
-*.iws
-*.iml
-*.ipr
-
-### NetBeans ###
-/nbproject/private/
-/nbbuild/
-/dist/
-/nbdist/
-/.nb-gradle/
-build/
-!**/src/main/**/build/
-!**/src/test/**/build/
-
-### VS Code ###
 .vscode/
+
+### Sistema operativo ###
+.DS_Store
+Thumbs.db

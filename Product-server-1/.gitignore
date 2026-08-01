@@ -1,0 +1,62 @@
+HELP.md
+target/
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### Maven / dependencias descargadas ###
+.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/dists/
+dependency-reduced-pom.xml
+
+### Archivos temporales ###
+*.log
+*.tmp
+*.bak
+*.pid
+hs_err_pid*.log
+replay_pid*.log
+
+### Configuración local (no debe subirse) ###
+application-local.yml
+application-local.yaml
+application-local.properties
+*.local.yml
+*.local.properties
+.env
+.env.*
+
+### STS (Spring Tool Suite) ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### Eclipse ###
+.metadata
+bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+### Sistema operativo ###
+.DS_Store
+Thumbs.db
